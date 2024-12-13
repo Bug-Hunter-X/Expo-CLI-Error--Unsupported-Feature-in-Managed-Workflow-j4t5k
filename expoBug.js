@@ -1,0 +1,1 @@
+This error typically occurs when you try to use a feature or module that isn't available in the Expo managed workflow.  Expo Go and the managed workflow have limitations compared to a bare React Native workflow.  The specific error message usually points to the problematic feature.
